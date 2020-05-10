@@ -41,7 +41,7 @@
         <a class="nav-link" href="index.php" >Login</a>
       </li>
     <li class="nav-item">
-        <a class="nav-link" href="#" >Iletisim</a>
+        <a class="nav-link" href="iletisim.php" >Iletisim</a>
       </li>
          
     </ul>
